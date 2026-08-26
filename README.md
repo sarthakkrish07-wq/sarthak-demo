@@ -1,4 +1,4 @@
-# Sattu Bhai ka demo
+# Sattu Bhai demo do
 
 This is my first Git repository, Nice
 <br>
